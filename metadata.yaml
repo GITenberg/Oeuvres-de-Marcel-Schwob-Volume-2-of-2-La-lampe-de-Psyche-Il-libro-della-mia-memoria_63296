@@ -1,5 +1,8 @@
 _repo: Oeuvres-de-Marcel-Schwob-Volume-2-of-2-La-lampe-de-Psyche-Il-libro-della-mia-memoria_63296
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63296-h/images/cover.jpg
 creator:
   author:
     agent_name: Schwob, Marcel
@@ -15,6 +18,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Marcel_Schwob
     - https://en.wikipedia.org/wiki/Marcel_Schwob
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63296#Oeuvres-de-Marcel-Schwob-Volume-2-of-2-La-lampe-de-Psyche-Il-libro-della-mia-memoria
 gutenberg_issued: '2020-09-25'
 gutenberg_type: Text
 identifiers:
