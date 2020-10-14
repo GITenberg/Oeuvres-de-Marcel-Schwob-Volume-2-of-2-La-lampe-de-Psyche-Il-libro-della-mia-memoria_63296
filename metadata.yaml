@@ -1,0 +1,34 @@
+_repo: Oeuvres-de-Marcel-Schwob-Volume-2-of-2-La-lampe-de-Psyche-Il-libro-della-mia-memoria_63296
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schwob, Marcel
+    aliases:
+    - Schwob, Mayer André Marcel
+    - Loyson-Bridet
+    - Schwob, Mayer Andre Marcel
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '7814'
+    url: http://www.gutenberg.org/2009/agents/7814
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Marcel_Schwob
+    - https://en.wikipedia.org/wiki/Marcel_Schwob
+description: ''
+gutenberg_issued: '2020-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63296'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature'
+- GITenberg
+tableOfContents: 'La lampe de Psyché: Mimes. La croisade des enfants. L''étoile de
+  bois. Le livre de Monelle -- Il libro della mia memoria.'
+title: Oeuvres de Marcel Schwob. Volume 2 of 2, La lampe de Psyché; Il libro della
+  mia memoria
+url: http://www.gutenberg.org/ebooks/63296
